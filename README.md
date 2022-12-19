@@ -13,4 +13,4 @@ I work remotely and like to travel a lot.
 <br/>
 
 - 📍 &nbsp Current Location: Tashkent, Uzbekistan
-- 📧 &nbsp How to rech me: [@kh_bobur](https://telegram.com/kh_bobur1/)
+- 📧 &nbsp How to rech me: [@kh_bobur](https://telegram.org/kh_bobur1/)
