@@ -10,3 +10,7 @@ I work remotely and like to travel a lot.
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" height="30px"></code>
 <code><img src="https://w7.pngwing.com/pngs/423/333/png-transparent-mysql-logo-database-join-table-blue-furniture-text.png" height="25px"></code>
 
+<br/>
+
+- 📍 &nbsp Current Location: Tashkent, Uzbekistan
+- 📧 &nbsp How to rech me: [@kh_bobur](https://telegram.com/kh_bobur1/)
