@@ -3,9 +3,10 @@
 I make videos on YouTube about software development. <br/>
 I work remotely and like to travel a lot.  
 
-<br/>
 
 ### Languages and tools I work with: 
 
+<code><img src="https://i.pinimg.com/originals/97/cf/2c/97cf2ccd659ef9b00dd0aa15137130ec.png" height="25px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" height="25px"></code>
 <code><img src="https://i.pinimg.com/originals/97/cf/2c/97cf2ccd659ef9b00dd0aa15137130ec.png" height="25px"></code>
 
